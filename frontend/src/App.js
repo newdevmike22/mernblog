@@ -1,7 +1,9 @@
+import Home from "./pages/HomePage";
+
 const App = () => {
   return (
     <div>
-      <h1 className="text-red-500 text-5xl">Mern Blog App</h1>
+      <Home />
     </div>
   )
 }
