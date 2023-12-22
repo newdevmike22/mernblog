@@ -2,7 +2,7 @@ import Home from "./pages/HomePage";
 
 const App = () => {
   return (
-    <div>
+    <div className="App font-opensans">
       <Home />
     </div>
   )
